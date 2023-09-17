@@ -1,7 +1,7 @@
 # Airline Customer Value Analysis Case with Clustering K-Means Based on LRFC Model
 
 ## Introduction
-Semakin meningkatnya persaingan Perusahaan maskapai penerbangan dapat menyebabkan Perusahaan mengalami penurunan pendapatan salah satunya dengan kehilangan pelanggan. Perusahaan saat ini perlu melakukan strategi untuk dapat bersaing, salah satunya melakukan pendekatan terhadap pelanggan. Pendekatan yang dilakukan Perusahaan dapat dilakukan dengan melakukan clustering pelanggan untuk melihat karakteristik mana pelanggan yang memiliki nilai atau loyalitas tinggi maupun rendah. Dengan hal ini, Perusahaan dapat melakukan strategi pemasaran dan memberikan layanan yang berbeda sesuai dengan klasifikasi pelanggan tersebut sehingga Perusahaan dapat lebih optimal dalam meningkatkan penjualan dan pendapatan.
+Semakin meningkatnya persaingan perusahaan Airline dapat menyebabkan penurunan pendapatan salah satunya dengan terjadinya kehilangan pelanggan. Perusahaan saat ini perlu melakukan strategi untuk dapat bersaing, salah satunya dengan pendekatan pelanggan. Pendekatan yang dilakukan perusahaan dapat dilakukan dengan melakukan clustering pelanggan untuk melihat karakteristik mana pelanggan yang memiliki nilai yang tinggi maupun rendah. Dengan hal ini, perusahaan dapat melakukan strategi pemasaran dan memberikan layanan yang berbeda sesuai dengan klasifikasi pelanggan tersebut sehingga Perusahaan dapat lebih optimal dalam meningkatkan penjualan dan pendapatan.
 
 ## Exploratory Data Analysis
 -	Data memiliki 62988 rows & 23 columns (15 data numerikal, 8 data kategorikal).
